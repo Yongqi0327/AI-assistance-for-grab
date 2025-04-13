@@ -5,7 +5,7 @@ from deep_translator import GoogleTranslator
 
 
 # 🌐 Gemini API Key
-GOOGLE_API_KEY = "AIzaSyBv3OJ63w68FJYFhX1O3zsMOYSp7uWxwqs"
+GOOGLE_API_KEY = "your_api_key"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # 🧠 Load Gemini Model
